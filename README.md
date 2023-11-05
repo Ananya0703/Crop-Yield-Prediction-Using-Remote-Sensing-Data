@@ -37,7 +37,7 @@ This project primarily focuses on accurate crop yield predictions for two major 
 ## Streamlit Web Application
 
 Explore crop yield predictions and visualize insights with our user-friendly Streamlit web application. Get real-time forecasts and gain valuable information for better agricultural planning and decision-making. 
-- https://satellite-harvest.streamlit.app/
+- streamlit app: https://satellite-harvest.streamlit.app/
 - github link: https://github.com/atishay-gwari/Satellite-Harvest
 
 ## Contributing
