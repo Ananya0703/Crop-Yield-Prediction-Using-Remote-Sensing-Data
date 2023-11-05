@@ -9,8 +9,10 @@ This project is a comprehensive solution for Crop Yield Prediction using state-o
 ## Data Sources
 
 - **GridMET Weather Data**: We have utilized weather data from the GridMET dataset spanning from the year 1980 to 2020 to enhance our predictive models.
+  - https://www.climatologylab.org/gridmet.html
 
 - **USDA Quick Stats**: We also incorporate data from USDA Quick Stats for crop yield information, providing a valuable additional source for our predictive models.
+  - https://www.nass.usda.gov/Quick_Stats/index.php
 
 ## Python Package Deployement
 - **netcdf-unpacker**: To simplify working with NetCDF files, we've developed and deployed an open-source library called `netcdf-unpacker`, which is available on PyPi.
@@ -32,6 +34,10 @@ This project primarily focuses on accurate crop yield predictions for two major 
 
 - Streamlit Web Application: The model has been deployed as a user-friendly web application using Streamlit, making it easy for users to obtain real-time crop yield predictions and visualize the results.
 
+## Streamlit Web Application
+
+Explore crop yield predictions and visualize insights with our user-friendly Streamlit web application. Get real-time forecasts and gain valuable information for better agricultural planning and decision-making. 
+- https://satellite-harvest.streamlit.app/
 
 ## Contributing
 
