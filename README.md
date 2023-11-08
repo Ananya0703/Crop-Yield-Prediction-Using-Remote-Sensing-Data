@@ -8,7 +8,7 @@ This project is a comprehensive solution for Crop Yield Prediction using state-o
 
 ## Data Sources
 
-- **GridMET Weather Data**: We have utilized weather data from the GridMET dataset spanning from the year 1980 to 2020 to enhance our predictive model.
+- **GridMET Weather Data**: We have utilized weather data from the GridMET dataset spanning from the year 1980 to 2020 to enhance our predictive models.
   - https://www.climatologylab.org/gridmet.html
 
 - **USDA Quick Stats**: We also incorporate data from USDA Quick Stats for crop yield information, providing a valuable additional source for our predictive models.
