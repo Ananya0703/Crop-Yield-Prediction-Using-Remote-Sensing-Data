@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project is a comprehensive solution for Crop Yield Prediction using state-of-the-art machine learning techniques and remote sensing data. It empowers farmers, agricultural experts, and stakeholders with valuable insights into crop yield forecasts, allowing for better planning and decision-making in the agricultural sector.
+This project is a comprehensive solution for Crop Yield Prediction using state-of-the-art machine learning techniques and remote sensing data. It empowers farmers, agricultural experts and stakeholders with valuable insights into crop yield forecasts, allowing for better planning and decision-making in the agricultural sector.
 
 ## Data Sources
 
